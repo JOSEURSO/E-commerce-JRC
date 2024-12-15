@@ -654,6 +654,10 @@
   color: green;
  }
 
+.product .custom-pagination{
+  position: relative;
+  height: 50px;
+ }
 
 
 
@@ -687,7 +691,9 @@
     left: 0;
   }
 
-  
+   .custom-pagination{
+    display: none;
+  }
  }
 
 
