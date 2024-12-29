@@ -654,6 +654,22 @@
   color: blue;
  }
 
+ i{
+  color: white;
+  background-color: red;
+  
+ 
+ }
+
+ span{
+  color: red;
+ }
+
+ span i{
+  background-color: blue;
+ }
+
+
 .product .custom-pagination{
   position: relative;
   height: 50px;
